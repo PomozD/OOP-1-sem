@@ -1,0 +1,16 @@
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\bin\Debug\net5.0\ekz4.exe
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\bin\Debug\net5.0\ekz4.deps.json
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\bin\Debug\net5.0\ekz4.runtimeconfig.json
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\bin\Debug\net5.0\ekz4.runtimeconfig.dev.json
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\bin\Debug\net5.0\ekz4.dll
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\bin\Debug\net5.0\ref\ekz4.dll
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\bin\Debug\net5.0\ekz4.pdb
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\obj\Debug\net5.0\ekz4.csproj.AssemblyReference.cache
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\obj\Debug\net5.0\ekz4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\obj\Debug\net5.0\ekz4.AssemblyInfoInputs.cache
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\obj\Debug\net5.0\ekz4.AssemblyInfo.cs
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\obj\Debug\net5.0\ekz4.csproj.CoreCompileInputs.cache
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\obj\Debug\net5.0\ekz4.dll
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\obj\Debug\net5.0\ref\ekz4.dll
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\obj\Debug\net5.0\ekz4.pdb
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\4\ekz4\ekz4\obj\Debug\net5.0\ekz4.genruntimeconfig.cache

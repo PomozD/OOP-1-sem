@@ -1,0 +1,16 @@
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\bin\Debug\net5.0\ekz2.exe
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\bin\Debug\net5.0\ekz2.deps.json
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\bin\Debug\net5.0\ekz2.runtimeconfig.json
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\bin\Debug\net5.0\ekz2.runtimeconfig.dev.json
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\bin\Debug\net5.0\ekz2.dll
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\bin\Debug\net5.0\ref\ekz2.dll
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\bin\Debug\net5.0\ekz2.pdb
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\obj\Debug\net5.0\ekz2.csproj.AssemblyReference.cache
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\obj\Debug\net5.0\ekz2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\obj\Debug\net5.0\ekz2.AssemblyInfoInputs.cache
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\obj\Debug\net5.0\ekz2.AssemblyInfo.cs
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\obj\Debug\net5.0\ekz2.csproj.CoreCompileInputs.cache
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\obj\Debug\net5.0\ekz2.dll
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\obj\Debug\net5.0\ref\ekz2.dll
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\obj\Debug\net5.0\ekz2.pdb
+D:\Лабы\ООП вторая попытка\labi\OOP\Ekz\2\ekz2\ekz2\obj\Debug\net5.0\ekz2.genruntimeconfig.cache

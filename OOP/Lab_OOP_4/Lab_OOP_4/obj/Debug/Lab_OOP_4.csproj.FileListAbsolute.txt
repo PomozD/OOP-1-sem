@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_4\Lab_OOP_4\bin\Debug\Lab_OOP_4.exe.config
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_4\Lab_OOP_4\bin\Debug\Lab_OOP_4.exe
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_4\Lab_OOP_4\bin\Debug\Lab_OOP_4.pdb
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_4\Lab_OOP_4\obj\Debug\Lab_OOP_4.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_4\Lab_OOP_4\obj\Debug\Lab_OOP_4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_4\Lab_OOP_4\obj\Debug\Lab_OOP_4.exe
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_4\Lab_OOP_4\obj\Debug\Lab_OOP_4.pdb
+D:\Лабы\ООП вторая попытка\labi\OOP\Lab_OOP_4\Lab_OOP_4\bin\Debug\Lab_OOP_4.exe.config
+D:\Лабы\ООП вторая попытка\labi\OOP\Lab_OOP_4\Lab_OOP_4\bin\Debug\Lab_OOP_4.exe
+D:\Лабы\ООП вторая попытка\labi\OOP\Lab_OOP_4\Lab_OOP_4\bin\Debug\Lab_OOP_4.pdb
+D:\Лабы\ООП вторая попытка\labi\OOP\Lab_OOP_4\Lab_OOP_4\obj\Debug\Lab_OOP_4.csproj.AssemblyReference.cache
+D:\Лабы\ООП вторая попытка\labi\OOP\Lab_OOP_4\Lab_OOP_4\obj\Debug\Lab_OOP_4.csproj.CoreCompileInputs.cache
+D:\Лабы\ООП вторая попытка\labi\OOP\Lab_OOP_4\Lab_OOP_4\obj\Debug\Lab_OOP_4.exe
+D:\Лабы\ООП вторая попытка\labi\OOP\Lab_OOP_4\Lab_OOP_4\obj\Debug\Lab_OOP_4.pdb
